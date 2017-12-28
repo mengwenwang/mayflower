@@ -18,8 +18,8 @@ nav img {
 .links a.active {
     background-color: #9b8266;
     margin: 2px 2px;
-    padding: 2px 16px;
-    border-radius: 5px;
+    padding: 2px 14px;
+    border-radius: 6px;
 }
 body {
     margin:  0;
@@ -40,7 +40,7 @@ body {
     transition: .2s;
 }
 .triggerSubmenu ul li {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.3); 
     margin: 5px 0;
     padding: 3px 10px;
     font-weight: 300;
@@ -66,7 +66,7 @@ body {
     font-family: 'Open Sans';
 }
 nav a:hover {
-    color: #8b745c;
+    color:#fcf6f2;
     text-decoration: none;
 }
 .navContainer {
@@ -396,15 +396,17 @@ nav a:hover {
 .contactContent ul {
     padding-left: 0;
     list-style: none;
+    padding-top: 3%;
 }
 .contactContent i {
     margin-right: 15px;
     width: 10px;
+    font-size: 25px;
 }
 .contactContent li {
-    margin: 15px 0;
+    margin: 18px 0;
     font-weight: 100;
-    font-size: 12px;
+    font-size: 14px;
 }
 .contactContent input {
     background-color: #323232;
@@ -466,6 +468,12 @@ nav a:hover {
 .contact-form a:hover {
     background-color: #8b745c;
 }
+
+.footEdge {
+    background-color: #A38158;
+    padding-bottom: 2%;
+}
+
 .hotelRow {
     padding-bottom: 1rem;
     display: flex;
