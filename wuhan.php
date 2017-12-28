@@ -4,12 +4,10 @@
 
     </section>
     <section class="aboutPageContent">
-        <h1>mayflower wuhan hotel </h1>
+        <h1>mayflowers hotel wuhan </h1>
         <br>
         <p>
-        Mayflowers Hotel Wuhan is located in Wuchang CBD, the hotel ad 
-        joins business center of Zhongnan business area, where there're 
-        municipal government, universities and colleges, research institutes, 
+        Mayflowers Hotel Wuhan is located in Wuchang CBD, the hotel adjoins business center of Zhongnan business area, where there're municipal government, universities and colleges, research institutes, 
         Chuhehanjie Street, the Museum of Wuchang Uprising of 1911
         Revolution, East lake High-Tech Development Zone. Look out into
         the distance from the upper floors window of the hotel, guests 

@@ -4,15 +4,11 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/1.png" alt="First slide">
+                    <img class="d-block w-100" src="img/masthead.png" alt="First slide">
                     <div class="overlay">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="titleContainer">
-                                <h1>Mayflower Video Introduction</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Consequuntur architecto</p>
-                                <p>Explicabo blanditiis aperiam est.voluptatibus qui!</p>
-                                <p>, commodi neque unde quo fuga, minima fugit dignissimos tempora </p>
-                                <a href=""><i class="material-icons">play_circle_filled</i></a>
+                                <h1>M a y f l o w e r</h1>
                             </div>
                         </div>
                     </div>
@@ -60,7 +56,7 @@
             <h1><span>ABOUT US</span></h1>
             <div class="aboutContent">
                 <div class="aboutDetail">
-                    <h2>Mayflowers<span> &</span></h2>
+                    <h2>Mayflowers<span></span></h2>
                     <h2>Corporate Overview</h2>
                     <p>
                      Established in 1994, one of famous brands, the Hubei Mayflower Commercial & Trading Industrial Holdings......
@@ -144,17 +140,17 @@
             <div class="hotelRow">
                 <div onclick="location.href='manhattan.php'" class="hotel mr-3" style="background-image:url(./img/manhattan.png)">
                     <div class="overlay">
-                        <h1>FIFTH AVENUE H HOTEL</h1>
+                        <h1>MAYFLOWER H HOTEL</h1>
                     </div>
                 </div>
                 <div onclick="location.href='wuhan.php'" class="hotel mr-3" style="background-image:url(./img/wuhan.png)">
                     <div class="overlay">
-                        <h1>MAYFLOWERS WUHAN HOTEL</h1>
+                        <h1>MAYFLOWERS HOTEL WUHAN</h1>
                     </div>
                 </div>
                 <div onclick="location.href='grand.php'" class="hotel" style="background-image:url(./img/grand.jpg)">
                     <div class="overlay">
-                        <h1>MAYFLOWERS GRAND HOTEL</h1>
+                        <h1>MAYFLOWER GRAND HOTEL</h1>
                     </div>
                 </div>
             </div>
