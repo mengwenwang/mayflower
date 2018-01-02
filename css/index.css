@@ -503,6 +503,7 @@ nav a:hover {
     width: 100%;
     position: relative;
     transition: .4s;
+    flex-wrap: wrap; 
 }
 .hotel:hover .overlay {
     opacity: 0;
