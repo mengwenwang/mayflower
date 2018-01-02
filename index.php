@@ -14,11 +14,21 @@
                     </div>
                 </div>
                 <div class="carousel-item">
+                    <img class="d-block w-100" src="img/manhattan.png" alt="First slide">
+                    <div class="overlay">
+                        <div class="carousel-caption d-none d-md-block">
+                            <div class="titleContainer">
+                                <h1>M a y f l o w e r</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="carousel-item">
                     <img class="d-block w-100" src="img/1.png" alt="First slide">
                     <div class="overlay">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="titleContainer">
-                                <h1>Mayflower Video Introduction</h1>
+                                <h1>M a y f l o w e r</h1>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Consequuntur architecto</p>
                                 <p>Explicabo blanditiis aperiam est.voluptatibus qui!</p>
                                 <p>, commodi neque unde quo fuga, minima fugit dignissimos tempora </p>
@@ -26,21 +36,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="img/1.png" alt="First slide">
-                    <div class="overlay">
-                        <div class="carousel-caption d-none d-md-block">
-                            <div class="titleContainer">
-                                <h1>Mayflower Video Introduction</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Consequuntur architecto</p>
-                                <p>Explicabo blanditiis aperiam est.voluptatibus qui!</p>
-                                <p>, commodi neque unde quo fuga, minima fugit dignissimos tempora </p>
-                                <a href=""><i class="material-icons">play_circle_filled</i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div> -->
             </div>
             <a class="carousel-control-prev cal-nav" href="#carouselExampleControls" role="button" data-slide="prev">
                 <i class="material-icons ">chevron_left</i>
@@ -138,7 +134,7 @@
                 </div>
             </div> -->
             <div class="hotelRow">
-                <div onclick="location.href='manhattan.php'" class="hotel mr-3" style="background-image:url(./img/manhattan.png)">
+                <div onclick="location.href='manhattan.php'" class="hotel mr-3" style="background-image:url(./img/manhattan-sm.png)">
                     <div class="overlay">
                         <h1>MAYFLOWER H HOTEL</h1>
                     </div>
